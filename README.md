@@ -1,0 +1,1 @@
+Renamed to [grunt-contrib-cssmin](/gruntjs/grunt-contrib-cssmin).
