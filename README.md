@@ -1,1 +1,1 @@
-Renamed to [grunt-contrib-cssmin](/gruntjs/grunt-contrib-cssmin).
+Renamed to [grunt-contrib-cssmin](http://github.com/gruntjs/gruntjs/grunt-contrib-cssmin).
